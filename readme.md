@@ -4,4 +4,4 @@ new repository
 
 ## subheader
 
-watch now
+watch the tutorial now
